@@ -13,8 +13,10 @@ IrrigaMe
         :target: https://irrigame.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-Come eseguire
+Come eseguire:
 
+* `make install`
+* `python -m irrigame`
 
 
 Descrizione di esempio
