@@ -13,6 +13,7 @@ IrrigaMe
         :target: https://irrigame.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
+Come eseguire
 
 
 

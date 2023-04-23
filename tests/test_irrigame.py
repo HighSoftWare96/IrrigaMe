@@ -7,7 +7,7 @@ import unittest
 from click.testing import CliRunner
 
 from irrigame import irrigame
-from irrigame import cli
+from irrigame.__main__ import cli
 
 
 class TestIrrigame(unittest.TestCase):
